@@ -72,10 +72,10 @@ namespace DotNetCoreNullable
 
             // il of code see no difference notice class name in code (compiler replaces at compile time)
             //IL_0000: nop
-            SomeReallyLongClassNameThatIsDescriptive c1 = new SomeReallyLongClassNameThatIsDescriptive();
+            //SomeReallyLongClassNameThatIsDescriptive c1 = new SomeReallyLongClassNameThatIsDescriptive();
             //IL_0001:  newobj instance void DotNetCoreNullable.SomeReallyLongClassNameThatIsDescriptive::.ctor()
             //IL_0006: stloc.0
-            var c2 = new SomeReallyLongClassNameThatIsDescriptive();
+            //var c2 = new SomeReallyLongClassNameThatIsDescriptive();
             //IL_0007: newobj instance void DotNetCoreNullable.SomeReallyLongClassNameThatIsDescriptive::.ctor()
             //IL_000c: stloc.1
             //IL_000d: ret
